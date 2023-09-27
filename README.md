@@ -38,7 +38,7 @@ Diese Wanderung bietet schöne Blicke aus der Höhe auf den Achensee ohne große
 - GPX-Datei: [Bergstation Rofanseilbahn - Dalfazalm - und zurück](assets/maurach-rofanseilbahn-dalfazalm.gpx)
 - Outdooractive-Link: [Bergstation Rofanseilbahn - Dalfazalm](https://www.outdooractive.com/de/route/wanderung/achensee/maurach-bergstation-rofanseilbahn-dalfazalm/279969489/?share=%7Ezwy9uytt%244ossxfnf)
 
-### Schwere Wanderung von Talstatation Rofanseilbahn über die [Dalfazalm](https://www.dalfazalm.at/) zur Bergstation Rofanseilbahn (7km, 850m auf, 1m ab)
+### Schwere Wanderung von Talstation Rofanseilbahn über die [Dalfazalm](https://www.dalfazalm.at/) zur Bergstation Rofanseilbahn (7km, 850m auf, 1m ab)
 Diese Wanderung verbrennt die eine oder andere Kalorie. Sie beginnt an der Talstation der Rofanseilbahn in Maurauch und geht zur Dalfazalm durch den Wald. In der Dalfazalm kann man seine verbrannten Kalorien wieder auffüllen. Von der Dalfazalm geht es noch 2,5km zur Bergstation der Rofanseilbahn. Mit der Seilbahn geht es knieschonend wieder zum Ausgangspunkt.
 - Start- und Endpunkt: [Talstation Rofanseilbahn in Maurach](https://www.openstreetmap.org/?mlat=47.42440&mlon=11.75097#map=18/47.42440/11.75097) 
 - GPX-Datei: [Talstation Rofanseilbahn - Dalfazalm](assets/maurach-talstation-rofanbahn-dalfazalm-bergstation-rofanbahn.gpx)
