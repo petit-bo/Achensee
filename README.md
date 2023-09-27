@@ -18,7 +18,7 @@ Kleidung: Zur Feier am Samstag etwas Bequemes, Leichtes zum Wohlfühlen und zum 
 - [Heimatmuseum Sixenhof](https://sixenhof.at/museum) - Heimatmuseum in 100m Entfernung vom Karlingerhof - geöffnet von 13:00 - 17:00
 
 ## Bei Sonne
-Hier werden Wanderungen empfohlen. Die Route der Wanderung wird in zwei Formaten angeboten: als GPX-Datei und Outdooractive-Link. Beim Klick auf GPX-Link öffnet sich eine GitHub-Datei. Dort muss man oben links auf Download klicken und dann den Import in die Outdoor-/Karten-App deiner Wahl. Oder du benutzt den Link der Outdooractive-App, die wir gerne benutzen.
+Hier werden Wanderungen empfohlen. Die Route der Wanderung wird in zwei Formaten angeboten: als GPX-Datei und Outdooractive-Link.
 
 ### Mittlere Wanderung zur [Zöhrer Alm](https://www.achensee.com/map-detail/zoehreralm/) (5km, 416m hoch, 416m ab) 
 Die Zöhreralm ist am Montag geschlossen. Diese schöne Wanderung dauert ca. 2h 30min und hat die Almhütte [Zöhrer Alm](https://www.achensee.com/map-detail/zoehreralm/) als Ziel. Die Zöhrer Alm wird als Gourmet-Alm auf der Achensee-Seite angepriesen.
