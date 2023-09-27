@@ -44,7 +44,7 @@ Diese Wanderung verbrennt die eine oder andere Kalorie. Sie beginnt an der Talst
 - GPX-Datei: [Talstation Rofanseilbahn - Dalfazalm](assets/maurach-talstation-rofanbahn-dalfazalm-bergstation-rofanbahn.gpx)
 - Outdooractive-Link: [Talstation Rofanseilbahn - Dalfazalm - Bergstation Rofanseilbahn](https://www.outdooractive.com/de/route/wanderung/achensee/talstation-rofanseibahn-maurach-dalfazalm-bergstation-rofanseilbahn/279976081/?share=%7Ezwyacmrp%244ossxfdo)
 
-### Mittlerer Aufstieg zur [Köglalm](https://www.achensee.com/map-detail/koeglalm/) ()
+### Mittlerer Aufstieg zur [Köglalm](https://www.achensee.com/map-detail/koeglalm/) (7km, 500m auf, 500m ab)
 Direkt vom Karlingerhof geht es hinter dem Fischerwirt unter der Achenseestraße zum Wald auf zur Köglalm. Wenn die Köglalm offen hat - offiziell hat sie nur bis Mitte September geöffnet, empfehlen wir das Brotzeitbrettl. Auf dem Rückweg kann man die Forststraße nehmen bis zum Abzweig Maximilianrast. Dort genießt man den Ausblick, läuft weiter abwärts bis man den Weg kreuzt, den man für den Aufstieg benutzt hat und wandert wieder bergab nach Achenkirch.
 - Start- und Endpunkt: Karlingerhof
 - GPX-Datei: [Kalingerhof - Koeglalm](assets/karlingerhof-koeglalm.gpx)
