@@ -2,7 +2,8 @@
 Hier findest Du noch einige nützliche Informationen zu unserem Event am Achensee.
 
 ## In aller Kürze
-[Karlingerhof](https://www.karlingerhof.at) - [Seewinkelstraße bzw. Achenkirch 28, 6215 Achenkirch, Österreich](https://www.openstreetmap.org/?mlat=47.50161&mlon=11.70631#map=17/47.50161/11.70631)
+Web: [Karlingerhof](https://www.karlingerhof.at)
+Adresse: [Seewinkelstraße bzw. Achenkirch 28, 6215 Achenkirch, Österreich](https://www.openstreetmap.org/?mlat=47.50161&mlon=11.70631#map=17/47.50161/11.70631)
 [Wetter in Achenkirch](https://www.wetter.com/oesterreich/achenkirch/ATAT30004.html)
 
 Kleidung: Zur Feier am Samstag etwas Bequemes, Leichtes zum Wohlfühlen und zum Tanzen - sonst Wandersachen
@@ -53,7 +54,5 @@ Direkt vom Karlingerhof geht es hinter dem Fischerwirt unter der Achenseestraße
 ### Alle Wanderungen
 Hier ist der Link für alle Wanderungen auf Outdooractive: [Achensee-Wanderungen](https://out.ac/IL4IdH)
 
-
-
-
-
+## Reservierungsbesätigung Karlingerhof für die kostenlose Busfahrt
+![Reservierungsbestätigung Karlingerhof](assets/reservierungs-bestaetigung-karlingerhof.jpg)
